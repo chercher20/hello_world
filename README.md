@@ -1,3 +1,4 @@
 # hello_world
 My first repository
-Excited for this class
+
+My name is Cherissa, I am a 3rd year in IT.
